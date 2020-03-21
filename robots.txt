@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aaphaechi.tinkerfestival.de/sitemap.xml
